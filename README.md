@@ -1,5 +1,7 @@
 # burlakov_churn_prediction
-Design and implement a predictive model for customer churn.
+Case Study: Design and implement a predictive model for customer churn.
+
+Description of the repository structure:
 
 Input data .csv file is saved in folder 'data'
 
